@@ -5,7 +5,7 @@
 		"culture": 1,
 		"science": 2,
 		"production": 2,
-"		"gold": 3,	
+		"gold": 3,	
 		"isWonder": true,
 		"requiredTech": "Currency"
 	},
